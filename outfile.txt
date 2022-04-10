@@ -1,0 +1,22 @@
+итого 96
+drwxrwxr-x 2 amahi amahi  4096 апр 10 05:52 .
+drwxrwxr-x 7 amahi amahi  4096 апр  8 21:26 ..
+-rw-rw-r-- 1 amahi amahi   305 апр 10 05:52 childs.c
+-rw-rw-r-- 1 amahi amahi  2104 апр 10 05:52 childs.o
+-rw-rw-r-- 1 amahi amahi   120 апр  8 21:36 error.c
+-rw-rw-r-- 1 amahi amahi  1664 апр 10 05:52 error.o
+-rw-rw-r-- 1 amahi amahi    97 апр 10 05:52 free.c
+-rw-rw-r-- 1 amahi amahi  1656 апр 10 05:52 free.o
+-rw-rw-r-- 1 amahi amahi    15 апр 10 05:54 infile.txt
+-rw-rw-r-- 1 amahi amahi   469 апр  9 01:41 Makefile
+-rw-rw-r-- 1 amahi amahi   287 апр  8 22:58 out.c
+-rw-rw-r-- 1 amahi amahi     0 апр 10 05:55 outfile.txt
+-rw-rw-r-- 1 amahi amahi  2128 апр 10 05:52 out.o
+-rwxrwxr-x 1 amahi amahi 17904 апр 10 05:52 pipex
+-rw-rw-r-- 1 amahi amahi  1041 апр 10 05:51 pipex.c
+-rw-rw-r-- 1 amahi amahi   868 апр 10 05:51 pipex.h
+-rw-rw-r-- 1 amahi amahi  3672 апр 10 05:52 pipex.o
+-rw-rw-r-- 1 amahi amahi   978 апр  8 22:50 split.c
+-rw-rw-r-- 1 amahi amahi  2736 апр 10 05:52 split.o
+-rw-rw-r-- 1 amahi amahi  1615 апр  9 01:39 src.c
+-rw-rw-r-- 1 amahi amahi  3392 апр 10 05:52 src.o
